@@ -1,7 +1,7 @@
 .. notice for github users
 
 Disclaimer
-==========
+===========
 
 The Let's Encrypt Client is **BETA SOFTWARE**. It contains plenty of bugs and
 rough edges, and should be tested thoroughly in staging environments before use
